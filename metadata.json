@@ -1,0 +1,5 @@
+{
+  "name": "SolarPredict AI",
+  "description": "An AI/ML-powered platform to predict solar power output and optimize panel placement for maximum efficiency. Get actionable insights and data-driven recommendations.",
+  "requestFramePermissions": []
+}
